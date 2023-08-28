@@ -1,8 +1,12 @@
 # IDE Files
 .idea
 
-# cmake files
+# cmake build directory
 cmake-build-debug
+
+# Visdual Studio build directories
+.vs
+out
 
 # Prerequisites
 *.d
