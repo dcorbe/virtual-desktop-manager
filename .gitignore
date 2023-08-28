@@ -2,7 +2,7 @@
 .idea
 
 # cmake build directory
-cmake-build-debug
+cmake-build-debug*
 
 # Visdual Studio build directories
 .vs
