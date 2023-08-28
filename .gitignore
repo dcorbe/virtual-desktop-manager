@@ -3,6 +3,7 @@
 
 # cmake build directory
 cmake-build-debug*
+cmake-build-release*
 
 # Visdual Studio build directories
 .vs
