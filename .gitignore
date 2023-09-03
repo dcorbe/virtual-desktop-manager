@@ -32,7 +32,7 @@ build
 # VS Code does this for some reason
 CMakeSettings.json
 
-# Visdual Studio build directories
+# Visual Studio build directories
 .vs
 .vscode
 out
