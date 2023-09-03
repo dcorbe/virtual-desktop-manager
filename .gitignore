@@ -53,7 +53,7 @@ CMakeSettings.json
 .vscode
 out
 
-# Visual Studio Debugger files
+# MSVC debug database
 *.pdb
 
 # Prerequisites
