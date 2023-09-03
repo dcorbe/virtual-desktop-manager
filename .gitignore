@@ -36,6 +36,9 @@
 # KDevelop
 *.kdev4
 
+# Eclipse
+.settings
+
 # Try and capture as many permutations of cmake build directories as possible
 cmake-build*
 build
