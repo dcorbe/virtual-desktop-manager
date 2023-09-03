@@ -30,6 +30,7 @@ build
 
 # Visdual Studio build directories
 .vs
+.vscode
 out
 
 # Prerequisites
