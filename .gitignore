@@ -20,14 +20,24 @@
 # SOFTWARE.
 #
 
-# IDE Files
+# IntelliJ and family
 .idea
+
+# Unknown, possibly Fleet
 .cache
+
+# Definitely fleet
 .fleet
 
-# cmake build directory
+# Netbeans
+.cproject
+.project
+
+# Try and capture as many permutations of cmake build directories as possible
 cmake-build*
 build
+Release
+Debug
 
 # VS Code does this for some reason
 CMakeSettings.json
