@@ -33,6 +33,9 @@
 .cproject
 .project
 
+# KDevelop
+*.kdev4
+
 # Try and capture as many permutations of cmake build directories as possible
 cmake-build*
 build
