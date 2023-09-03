@@ -22,10 +22,15 @@
 
 # IDE Files
 .idea
+.cache
+.fleet
 
 # cmake build directory
 cmake-build*
 build
+
+# VS Code does this for some reason
+CMakeSettings.json
 
 # Visdual Studio build directories
 .vs
