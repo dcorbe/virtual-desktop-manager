@@ -39,6 +39,12 @@
 # Eclipse
 .settings
 
+# Qt Creator
+*.autosave
+virtual-desktop-manager.*
+.qt*
+
+
 # Try and capture as many permutations of cmake build directories as possible
 cmake-build*
 build
